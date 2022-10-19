@@ -1,1 +1,1 @@
-# LearningGit
+# LearningGit How to store versions
